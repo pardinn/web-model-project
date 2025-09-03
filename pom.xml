@@ -18,7 +18,7 @@
 		<jackson.version>2.9.8</jackson.version>
 		<cucumber.version>3.0.2</cucumber.version>
 		<selenium.version>3.141.59</selenium.version>
-		<webdrivermanager.version>3.8.1</webdrivermanager.version>
+		<webdrivermanager.version>6.1.0</webdrivermanager.version>
 		<log4j.version>2.13.0</log4j.version>
 
 		<env>uat</env> <!-- des, prod ou uat-->
